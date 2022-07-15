@@ -1,0 +1,13 @@
+nav {
+    background: white;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1vw;
+    border-radius: 5px;
+    font-size: 1.15em;
+}
+
+ul {
+    display: flex;
+    justify-content: center
+}
